@@ -1,4 +1,4 @@
-### CRUD Application Design using Python Flask
+### CRUD Application Design using Python Flask (See GIF)
 
 - The application has three different web pages.
 - The first one displays all the recorded transactions. This page is called Transaction Records and displays all the transactions entries created in the system. This page also gives an option to Edit and Delete the available entries. The option of adding an entry is also available on this page.
